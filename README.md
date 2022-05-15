@@ -4,7 +4,7 @@ This repository contains an application for manualy entering nucleobases and vis
 ## Guide on application usage
 
 ### Starting the application
-* To start the application you nead to open the Unix EXE file with the name "Gene_visualization_app".
+* To start the application you nead to open the Unix .EXE file with the name "Gene_visualization_app".
 The EXE file can be faund in folder with the name "Gene_visualization_app"
 
 ### Nucleobases entry
@@ -38,5 +38,10 @@ The picture below shows an example of nucleobase entry in a sequence:
 * The picture below shows the mentioned:
 
 ![4](https://user-images.githubusercontent.com/64494482/168490514-3f5c3512-b151-43c2-a8c4-94925c121622.png)
+
+* If you choose to not initiate mutation, application will show the results shown in the picture below:
+
+<img width="309" alt="5" src="https://user-images.githubusercontent.com/64494482/168499402-4dffe4be-d016-4a1e-a36d-575a05f2f3ef.png">
+
 
 
