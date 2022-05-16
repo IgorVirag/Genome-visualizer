@@ -31,7 +31,7 @@ The picture below shows an example of nucleobase entry in a sequence:
 
 ![3](https://user-images.githubusercontent.com/64494482/168489292-f851b44b-66c0-4d7c-b016-b7a757ec8d51.png)
 
-### MUTATION
+### Mutation
 
 * After your nucleobase entry is completed, application will issue a query that asks if you want to do a single random mutation of a nucleobase.
 * If you chose to initiate mutation, application will output a text message indicating that your mutation is done. After that application will show the results in a form of a genome.
