@@ -1,5 +1,5 @@
 # Genome-visualizer
-This repository contains an application for manualy entering nucleobases and visualizing genom from generated nucleobases pars.
+This repository contains an application for manualy entering nucleobases and visualizing genome from generated nucleobases pars.
 
 ## Guide on application usage
 
